@@ -143,6 +143,8 @@ a{
 
 .footer{
     background-color: orange;
+    text-align: center;
+    padding-top: 30px;
 }
 
 .peragraph{
@@ -150,10 +152,3 @@ a{
     text-align: center;
 }
 
-.circel{
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    display: inline-block;
-    background-color: white;
-}
